@@ -1,0 +1,5 @@
+Sequencia para abrir o TypeScript
+
+1°) npm i -D typescript
+2°) npm i -D ts-node-dev
+3°) npx tsc --init
