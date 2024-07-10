@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "dev": "ts-node-dev app.ts"
+    "dev": "ts-node-dev app.ts",
+    "dev2":"ts-node-dev arrays.ts"   
   },
   "description": "",
   "devDependencies": {
