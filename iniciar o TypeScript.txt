@@ -8,3 +8,8 @@ Sequencia para abrir o TypeScript
 Para o reactive
 -> npm i  create-react-app
 -> npx create-react-app myapp --template typescript -> Comando para criar com o tamplate do ts 
+
+-> npm install styled-components @types/styled-components -> para colocar componentes já estilizados
+
+Chakara ui -- Instalação 
+-> npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
